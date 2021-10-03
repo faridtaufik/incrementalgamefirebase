@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">226957512426</string>
+  <string name="google_storage_bucket" translatable="false">dilo---incremental-game-93cac.appspot.com</string>
+  <string name="project_id" translatable="false">dilo---incremental-game-93cac</string>
+  <string name="google_api_key" translatable="false">AIzaSyD03qPV8TJKGZy7OfXNvm0_8z4ao6XQ-UM</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD03qPV8TJKGZy7OfXNvm0_8z4ao6XQ-UM</string>
+  <string name="google_app_id" translatable="false">1:226957512426:android:32d313d6643dee45b3d193</string>
+  <string name="default_web_client_id" translatable="false">226957512426-6b1ltc8t6c3692i5s3ohkaps67t0g3s8.apps.googleusercontent.com</string>
+</resources>
